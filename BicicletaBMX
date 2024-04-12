@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BMX: La Adrenalina Sobre Ruedas</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+        body {
+            font-family: 'Montserrat', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #222;
+            color: #fff;
+        }
+
+        header {
+            background: linear-gradient(to right, #2e85b8, #ffc371);
+            padding: 40px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 3rem;
+            margin: 0;
+            text-shadow: 2px 2px 4px rgba(214, 179, 179, 0.3);
+        }
+
+        main {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        section {
+            margin-bottom: 40px;
+            background-color: #611d1d;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(56, 13, 13, 0.3);
+        }
+
+        h2 {
+            color: #ffc371;
+            font-size: 2rem;
+            text-align: center;
+            margin-bottom: 20px;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+            border-radius: 5px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        footer {
+            background-color: #222;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            font-size: 0.8rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>BMX: La Adrenalina Sobre Ruedas</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>¿Qué es BMX?</h2>
+            <p>BMX (Bicycle Motocross) es un deporte extremo que involucra bicicletas diseñadas específicamente para realizar acrobacias y trucos en pistas de tierra o parques de skate. Estas bicicletas son resistentes, compactas y cuentan con ruedas pequeñas y un cuadro reforzado para soportar los aterrizajes y saltos.</p>
+            <img src="descarga.jpg" width="300" height="250" />
+        </section>
+
+        <section>
+            <h2>Historia del BMX</h2>
+            <p>El BMX surgió en la década de 1970 en California, Estados Unidos, cuando los jóvenes comenzaron a emular las carreras de motocross en sus bicicletas. Desde entonces, el deporte ha evolucionado y se ha extendido por todo el mundo, convirtiéndose en un estilo de vida para muchos entusiastas.</p>
+            <img src="descarga (1).jpg" width="300" height="250" />
+        </section>
+
+        <section>
+            <h2>Disciplinas BMX</h2>
+            <p>Existen diferentes disciplinas en el BMX, cada una con sus propias técnicas y desafíos:</p>
+            <ul>
+                <li><strong>BMX Racing:</strong> Carreras en pistas de tierra con obstáculos y saltos.</li>
+                <li><strong>BMX Freestyle:</strong> Realización de acrobacias y trucos en parques de skate o calles.</li>
+                <li><strong>BMX Flatland:</strong> Trucos realizados en superficies planas sin saltos.</li>
+            </ul>
+            <img src="descarga (2).jpg" width="300" height="250" />
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 BMX: La Adrenalina Sobre Ruedas Elaborado Por Oswa</p>
+    </footer>
+</body>
+</html>
